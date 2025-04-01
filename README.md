@@ -1,4 +1,4 @@
-## Hi there 👋
+I like to play with electroincs and a bit of CodinG...
 
 <!--
 **SUJ4l21/SUJ4L21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
